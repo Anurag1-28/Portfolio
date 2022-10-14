@@ -31,7 +31,7 @@ git commit -m "Relevant message"
 ```
 - Then push 
 ```markdown
-git push origin my-new-branch
+git push 
 ```
 
 
